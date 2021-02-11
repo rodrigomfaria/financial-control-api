@@ -1,21 +1,19 @@
 # API Controle Financeiro
 
-API Restful para aplicação de controle financeiro usando Spring MVC, PostgreSQL, JPA e Hibernate.
+API Restful para aplicação de controle financeiro usando Spring Boot, PostgreSQL e JPA.
 
 <h1>Requisitos</h1>
 
 <ul>
 <li>Java - 1.8.x</li>
-<li>Maven - 3.x.x</li>
+<li>Spring Tool Suite - 4.x.x</li>
 <li>PostgreSQL - 11.x.x</li>
 </ul>
 
 <h1>Instalação</h1>
 <ul>
-<li>Clone o aplicativo: https://github.com/rodrigomfaria/challenge-api.git</li>
-<li>Crie uma base de dados no PostgreSQL</li>
-<li>Altere a url do PostgreSQL conforme sua instalação no arquivo application.properties</li>
-<li>Construa e execute o aplicativo usando <a href="https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html">Maven</a></li>
+<li>Clone o aplicativo: https://github.com/rodrigomfaria/financial-control-api.git</li>
+<li>Altere a url do PostgreSQL conforme sua instalação no arquivo application.properties ou no mesmo arquivo configure para a opção test</li>
 </ul>
 
 <h1>APIs Rest</h1>
