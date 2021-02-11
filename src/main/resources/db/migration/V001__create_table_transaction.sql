@@ -1,0 +1,7 @@
+CREATE TABLE transaction (
+	id SERIAL NOT NULL,
+	description VARCHAR(100) NOT NULL,
+	type VARCHAR(10),
+	date TIMESTAMP NOT NULL,
+	total NUMERIC(10,3) NOT NULL
+);
