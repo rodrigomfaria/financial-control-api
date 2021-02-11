@@ -14,7 +14,7 @@ API Restful para aplicação de controle financeiro usando Spring MVC, PostgreSQ
 <ul>
 <li>Clone o aplicativo: https://github.com/rodrigomfaria/challenge-api.git</li>
 <li>Crie uma base de dados no PostgreSQL</li>
-<li>Altere o nome de usuário, senha e url do PostgreSQL conforme sua instalação no arquivo application.properties</li>
+<li>Altere a url do PostgreSQL conforme sua instalação no arquivo application.properties</li>
 <li>Construa e execute o aplicativo usando <a href="https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html">Maven</a></li>
 </ul>
 
